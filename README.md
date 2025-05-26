@@ -1,4 +1,4 @@
-# gamescope-session
+# Gamescope SDDM Session
 
 A simple script and session file to run Steam on fullscreen in a console-like environment using Gamescope (like the Steam Deck).
 
