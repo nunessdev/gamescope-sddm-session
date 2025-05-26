@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Steam
+Comment=Steam Big Picture via Gamescope
+Exec=/usr/local/bin/steam-session.sh
+Type=Application
