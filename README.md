@@ -5,7 +5,7 @@ A simple script and session file to run Steam on fullscreen in a console-like en
 ## Disclaimer
 
 This script and session were tested and developed on Arch Linux.  
-While it should theoretically work on any distribution, it may not.  
+While it should theoretically work on any distribution, it may not.
 You can adapt the session file to work with your greeter of choice.
 
 ## Dependencies
@@ -14,6 +14,7 @@ For this to work properly, you will need the following packages:
 
 - `wayland`
 - `gamescope`
+- `steam`
 - `sddm` (unless you adapt it to another greeter)
 
 ## How to Use
