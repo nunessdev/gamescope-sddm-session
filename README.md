@@ -5,7 +5,8 @@ A simple script and session file to run Steam on fullscreen in a console-like en
 ## Disclaimer
 
 This script and session were tested and developed on Arch Linux.  
-While it should theoretically work on any distribution, it may not.
+While it should theoretically work on any distribution, it may not.  
+This was not tested on a multiple monitor setup.  
 You can adapt the session file to work with your greeter of choice.
 
 ## Dependencies
@@ -67,3 +68,6 @@ exec gamescope -f -w <your-width> -h <your-height> -r <your-refresh-rate> -- ste
 ```
 exec gamescope -f -w 2560 -h 1440 -r 180 -- steam -tenfoot
 ```
+
+## To-Do
+- [ ] Create an install script
