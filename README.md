@@ -20,7 +20,7 @@ For this to work properly, you will need the following packages:
 
 ### 1. Download the Files
 
-Simply download both files from the [releases](#) tab.
+Simply download both files [here](https://github.com/nunessdev/gamescope-session/archive/refs/heads/main.zip).
 
 ### 2. Place the Files in Their Folders
 
